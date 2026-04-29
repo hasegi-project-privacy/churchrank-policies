@@ -7,7 +7,7 @@
 
 ## 운영자
 
-- Hasegi (개발 하세기)
+- Hasegi Inc. · 개발팀
 - 문의: hasegi.cs@gmail.com
 
-© 2026 Hasegi
+© 2026 Hasegi Inc.
