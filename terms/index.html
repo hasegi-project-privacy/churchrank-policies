@@ -99,6 +99,13 @@
       color: var(--muted);
       text-align: center;
       letter-spacing: 1px;
+      line-height: 1.6;
+    }
+    .footer .dot { display: inline; }
+    .footer .mobile-br { display: none; }
+    @media (max-width: 480px) {
+      .footer .dot { display: none; }
+      .footer .mobile-br { display: inline; }
     }
     .back {
       display: inline-block;
@@ -190,7 +197,7 @@
     </p>
 
     <div class="footer">
-      © 2026 Hasegi Inc. · 교회순위 (Korean Church Ranking)
+      © 2026 Hasegi Inc.<span class="dot"> · </span><br class="mobile-br" />교회순위 (Korean Church Ranking)
     </div>
   </main>
 </body>
